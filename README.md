@@ -31,13 +31,13 @@ Built using the following technologies:
 ## 📸 App Previews
 
 **🏠 Home Page**  
-<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/home_page.png" width="1000" height="600" />
+<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/home_page.png" width="1000" height="500" />
 
 **⚙️ Generator Page**  
-<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/generator_page.png" width="1000" height="600" />
+<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/generator_page.png" width="1000" height="500" />
 
 **✅ QR Code Generation Example**  
-<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/working.png" width="1000" height="600" />
+<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/working.png" width="1000" height="500" />
 
 ---
 
