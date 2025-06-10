@@ -1,16 +1,52 @@
-# qr_code
+# 📱 QR Code Generator
 
-A new Flutter project.
+A sleek and customizable **QR Code Generator** built with **Flutter**. Easily create, style, and save high-resolution QR codes from any text or URL — all with a clean, modern Material 3 interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔤 Generate QR codes from any user input (text or URL)  
+- 🎨 Fully customizable design:  
+  - Dot color  
+  - Eye color  
+  - Background color  
+- 📥 Save QR codes as high-quality images to your gallery  
+- 🖌 Smooth and intuitive UI using **Material 3**  
+- 🔒 No unnecessary permissions — no camera or location access required
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+Built using the following technologies:
+
+- **Flutter**  
+- **qr_flutter** – for QR code generation  
+- **permission_handler** – for storage access  
+- **image_gallery_saver** – to save images locally
+
+---
+
+## 📸 App Previews
+
+**🏠 Home Page**  
+<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/home_page.png" width="1000" height="600" />
+
+**⚙️ Generator Page**  
+<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/generator_page.png" width="1000" height="600" />
+
+**✅ QR Code Generation Example**  
+<img src="https://github.com/AnirudhKaplish/qr_generator/blob/main/assets/working.png" width="1000" height="600" />
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/AnirudhKaplish/qr_generator.git
+cd qr_generator
+flutter pub get
+flutter run
